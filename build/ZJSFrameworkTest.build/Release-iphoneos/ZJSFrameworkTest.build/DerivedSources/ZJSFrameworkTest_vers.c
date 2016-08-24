@@ -1,0 +1,1 @@
+ const unsigned char ZJSFrameworkTestVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:ZJSFrameworkTest  PROJECT:ZJSFrameworkTest-1" "\n"; const double ZJSFrameworkTestVersionNumber __attribute__ ((used)) = (double)1.;

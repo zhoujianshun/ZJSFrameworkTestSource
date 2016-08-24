@@ -1,0 +1,6 @@
+framework module ZJSFrameworkTest {
+  umbrella header "ZJSFrameworkTest.h"
+
+  export *
+  module * { export * }
+}
